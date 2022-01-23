@@ -18,7 +18,7 @@ class _InfosScreenState extends State<InfosScreen> {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-        height: 200,
+        height: 1200,
         child: FutureBuilder(
           future: airtableData.getInfos(),
           builder: (BuildContext context,

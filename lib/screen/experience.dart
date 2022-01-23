@@ -18,7 +18,7 @@ class _ExperienceScreenState extends State<ExperienceScreen> {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-        height: 200,
+        height: 1200,
         child: FutureBuilder(
           future: airtableData.getExperience(),
           builder: (BuildContext context,

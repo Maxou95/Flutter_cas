@@ -33,6 +33,18 @@ flutter pub add url_launcher
       - getAllExperience()
   - modifier 'screen/profil.dart' https://code.att.ovh/84fdac
 
+## Commentaires
+Difficultés dans la page infos+
+Difficultés à mettre le même style sur la page skills
+
+## Améliorations
+Création d'un back office pour les admins
+Ajout d'un accès pour les admins
+Possibilité d'importer son CV
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

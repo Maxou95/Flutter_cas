@@ -52,7 +52,7 @@ class ProfilScreen extends StatelessWidget {
           ///
           ///
           Container(
-            height: 200,
+            height: 1200,
             child: FutureBuilder(
               future: airtableData.getProfil(),
               builder: (BuildContext context,
